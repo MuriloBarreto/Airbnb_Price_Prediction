@@ -14,5 +14,5 @@ In this project, a Machine Learning algorithm was developed and implemented, whi
 - [XGBoost](https://xgboost.readthedocs.io/en/latest/)
 - Regression Models
 	+ Linear Regression
-	+ KNN Regressor
+	+ DecisionTreeRegressor
 	+ XGBRegressor
